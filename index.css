@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Qahiri&display=swap');
+
+*{
+    margin:0;
+    padding:0
+}
+#claculator{
+    width:300px;
+    margin :0 auto;
+    font-size: 0px;
+    margin-top: 50px;
+    
+}
+.cal-head input{
+    width: 300px;
+    height:45px;
+    box-sizing: border-box;
+    padding:10px
+}
+.cla-body .but1{
+    width: 75px;
+    height: 35px
+}
+.cla-body .but2{
+    width: 75px;
+    height: 35px
+}
+
+p{
+    color:blanchedalmond;
+    background: brown;
+}
